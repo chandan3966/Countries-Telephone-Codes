@@ -21,7 +21,7 @@ private String[] names = {"Afghanistan","Albania","Algeria","Andorra","Angola","
             "United Arab Emirates","United Kingdom","United States","Uruguay","Uzbekistan","Vanuatu","Vatican","Venezuela","Vietnam","Wallis and Futuna",
             "Western Sahara","Yemen","Zambia","Zimbabwe"};
 
-    private String[] countries = {"93","355","213","376","244","672","54","374","297","61",
+    private String[] codes = {"93","355","213","376","244","672","54","374","297","61",
                                 "43","994","973","880","375","32","501","229","975","591",
                             "387","267","55","246","673","359","226","257","855","237",
                             "1","238","236","235","56","86","61","61","57","269",
